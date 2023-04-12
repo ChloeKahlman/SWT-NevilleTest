@@ -1,4 +1,3 @@
-#include <Ultrasonic.h>
 
 #define SEND_RAW_SENSOR_VALUES 0x86
 #define SEND_CALIBRATED_SENSOR_VALUES 0x87
