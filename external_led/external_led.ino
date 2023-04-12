@@ -1,6 +1,6 @@
 void setup() {
-  digitalOut(19, OUTPUT);
-  digitalOut(20, OUTPUT);
+  pinMode(19, OUTPUT);
+  pinMode(20, OUTPUT);
 }
 
 void loop() {
