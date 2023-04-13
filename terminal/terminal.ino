@@ -1,9 +1,9 @@
 
 void setup() {
   initialize();
-  Serial.println("Hello World!");
 }
 
 void loop() {
-
+  Serial.println("Hello World!");
+  delay(10000);
 }
